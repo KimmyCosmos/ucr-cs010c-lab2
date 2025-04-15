@@ -1,0 +1,9 @@
+# Ignore build output
+a.out
+*.o
+
+# macOS system file
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
